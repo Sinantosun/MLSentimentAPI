@@ -35,4 +35,5 @@ API'ye bir POST isteği göndererek analiz yapabilirsiniz:
 ## Blog Yazısı
 
 Bu projenin adım adım yapılışını anlattığım blog yazısına buradan ulaşabilirsiniz:  
-[Blog Linki](#)
+
+https://sinantosun.com/blog-detayi/dotnet-mlnet-metin-duygu-analizi
