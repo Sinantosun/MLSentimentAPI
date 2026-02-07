@@ -1,0 +1,6 @@
+@MLSentimentAPI_HostAddress = http://localhost:5178
+
+GET {{MLSentimentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
